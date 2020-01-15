@@ -1,2 +1,3 @@
 # python-grade12
-CP12 Python Files
+Python files from Computer Programming 12 (taken in 2017)
+Not sorted in any order, or updated since creation
